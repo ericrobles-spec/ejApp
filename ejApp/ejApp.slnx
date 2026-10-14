@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ejApp/ejApp.vcxproj" Id="4036185e-c6b2-4c75-9982-f6cb8625d7d1" />
+</Solution>
